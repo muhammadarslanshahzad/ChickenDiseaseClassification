@@ -1,5 +1,5 @@
 from cnnClassifier.config.configuration import ConfigurationManager
-from cnnClassifier.components.DataIngestion import DataIngestion
+from src.cnnClassifier.components.data_Ingestion import DataIngestion
 from cnnClassifier import logger
 
 
